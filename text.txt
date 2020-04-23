@@ -1,0 +1,3 @@
+0. line zero is it?
+1. Hi this is from master to be fail the merge
+
